@@ -1,2 +1,1 @@
-env:
-  CI: false
+env: CI=false
